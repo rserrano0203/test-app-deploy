@@ -55,3 +55,7 @@ package-lock.json
 ```bash
 npm install --save moment
 ```
+
+## Screenshot
+
+![alt text](screenshot/screencapture_001.png)
